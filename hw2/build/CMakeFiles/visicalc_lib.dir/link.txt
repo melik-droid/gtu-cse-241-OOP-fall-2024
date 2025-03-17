@@ -1,0 +1,2 @@
+/usr/sbin/ar qc libvisicalc_lib.a CMakeFiles/visicalc_lib.dir/lib/src/AnsiTerminal.cpp.o CMakeFiles/visicalc_lib.dir/lib/src/Sheet.cpp.o CMakeFiles/visicalc_lib.dir/lib/src/Cursor.cpp.o CMakeFiles/visicalc_lib.dir/lib/src/FileManager.cpp.o CMakeFiles/visicalc_lib.dir/lib/src/FormulaParser.cpp.o
+/usr/sbin/ranlib libvisicalc_lib.a

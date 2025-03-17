@@ -1,0 +1,1 @@
+/usr/sbin/g++ -g -g -Wl,--dependency-file=CMakeFiles/visicalc.dir/link.d CMakeFiles/visicalc.dir/main.cpp.o -o visicalc  libvisicalc_lib.a
