@@ -1,4 +1,0 @@
-/home/archmelik/dev/Code/projects/OOP/hw1/build/CMakeFiles/visicalc_lib.dir
-/home/archmelik/dev/Code/projects/OOP/hw1/build/CMakeFiles/visicalc.dir
-/home/archmelik/dev/Code/projects/OOP/hw1/build/CMakeFiles/edit_cache.dir
-/home/archmelik/dev/Code/projects/OOP/hw1/build/CMakeFiles/rebuild_cache.dir
